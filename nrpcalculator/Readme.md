@@ -4,8 +4,8 @@
     Key enter as default.
 ## 2. Are operators case sensitive? 
     Assumption only lowercase support.
-## 3. Can undo operand cancel clear? 
-    No example provided, suppose not, only cancel operand.
+## 3. Can undo operator cancel clear? 
+    No example provided, suppose not, only cancel operators and operands.
 ## 4. What should show to console if input error? 
     For example, input a text string "abcd". Assumptions it show the position and error messages.
 ## 5. What is the position index of wrap line input when there is a insufficient?
