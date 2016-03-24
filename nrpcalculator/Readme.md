@@ -3,7 +3,7 @@
 ## 1. What kind of completed input would be accepted? 
     Key enter as default.
 ## 2. Are operators case sensitive? 
-    Assumption is not.
+    Assumption only lowercase support.
 ## 3. Can undo operand cancel clear? 
     No example provided, suppose not, only cancel operand.
 ## 4. What should show to console if input error? 
@@ -24,10 +24,14 @@
 Make sure you have install a JVM that can run java application.
 The JVM version 1.8 is required, otherwise you should build it from source code.
 ## 1. Build it from github
-    git clone 
+    git clone https://github.com/coderliux/CodeKata.git
+    cd CodeKata/nrpcalculator
+    ./gradlew clean deploy
+    cd bin
+    ./run.sh
 ## 2. Build it from zip
     Unzip the file, execute command 
-     ./gradlew deploy
+     ./gradlew clean deploy
 ## 3. Run it from zip directly
     Going to the bin directory, execute run.bat on window or run.sh on linux.
  

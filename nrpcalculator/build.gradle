@@ -24,7 +24,7 @@ jar {
 }
 
 //for customized task clean and deploy
-def jarFile = 'codepractice-' + version + '.jar'
+def jarFile = project.name + '-' + version + '.jar'
 def binDir = 'bin/'
 
 clean.doFirst {
