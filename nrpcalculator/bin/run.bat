@@ -1,0 +1,1 @@
+java -jar ./codepractice-1.0.jar
