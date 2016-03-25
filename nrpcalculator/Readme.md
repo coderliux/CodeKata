@@ -30,9 +30,9 @@ The JVM version 1.8 is required, otherwise you should build it from source code.
     cd bin
     ./run.sh
 ## 2. Build it from zip
-    Unzip the file, execute command 
+    Unzip the file, execute command in the root directory of it. 
      ./gradlew clean deploy
-## 3. Run it from zip directly
-    Going to the bin directory, execute run.bat on window or run.sh on linux.
+     cd bin
+     ./run.sh
  
   
