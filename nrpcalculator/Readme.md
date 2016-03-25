@@ -29,9 +29,9 @@ The JVM version 1.8 is required, otherwise you should build it from source code.
     ./gradlew clean deploy
     cd bin
     ./run.sh
-## 2. Build it from zip
+## 2. Build it from zip file. Make sure you have installed gradle.
     Unzip the file, execute command in the root directory of it. 
-     ./gradlew clean deploy
+     gradle clean deploy
      cd bin
      ./run.sh
  
