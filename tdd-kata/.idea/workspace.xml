@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb3989be-c49a-47c4-bd68-c876501b50c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SaCV9RmrLU4sz4fcRCsQuPndFc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tdd.kata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NumberPrintTest">
+    <configuration name="NumberPrintTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.kata.NumberPrintTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPrintTest.should_print_buzz_contains5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.kata.NumberPrintTest" />
+      <option name="METHOD_NAME" value="should_print_buzz_contains5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPrintTest.should_print_fizz_contains3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.kata.NumberPrintTest" />
+      <option name="METHOD_NAME" value="should_print_fizz_contains3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPrintTest.should_print_fizz_with3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.kata.NumberPrintTest" />
+      <option name="METHOD_NAME" value="should_print_fizz_with3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPrintTest.should_print_normal_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.kata.NumberPrintTest" />
+      <option name="METHOD_NAME" value="should_print_normal_number" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberPrintTest" />
+        <item itemvalue="JUnit.NumberPrintTest.should_print_fizz_contains3" />
+        <item itemvalue="JUnit.NumberPrintTest.should_print_buzz_contains5" />
+        <item itemvalue="JUnit.NumberPrintTest.should_print_fizz_with3" />
+        <item itemvalue="JUnit.NumberPrintTest.should_print_normal_number" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb3989be-c49a-47c4-bd68-c876501b50c0" name="Default Changelist" comment="" />
+      <created>1571792340066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571792340066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1571792455004">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="568" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/41.23.1399.877@41.23.1399.877" timestamp="1571792455004" />
+    <state x="471" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1571876779946">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="471" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/41.23.1399.877@41.23.1399.877" timestamp="1571876779946" />
+    <state width="1339" height="230" key="GridCell.Tab.0.bottom" timestamp="1571897321414">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1339" height="230" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1571897321414" />
+    <state width="1339" height="230" key="GridCell.Tab.0.center" timestamp="1571897321413">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1339" height="230" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1571897321413" />
+    <state width="1339" height="230" key="GridCell.Tab.0.left" timestamp="1571897321413">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1339" height="230" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1571897321413" />
+    <state width="1339" height="230" key="GridCell.Tab.0.right" timestamp="1571897321414">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1339" height="230" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1571897321414" />
+    <state x="531" y="388" key="ReplaceDuplicatesPrompt" timestamp="1571891904800">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="531" y="388" key="ReplaceDuplicatesPrompt/41.23.1399.877@41.23.1399.877" timestamp="1571891904800" />
+    <state x="221" y="44" key="SettingsEditor" timestamp="1571890970659">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="221" y="44" key="SettingsEditor/41.23.1399.877@41.23.1399.877" timestamp="1571890970659" />
+    <state x="471" y="222" width="524" height="482" key="extract.method.dialog" timestamp="1571891898883">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="471" y="222" width="524" height="482" key="extract.method.dialog/41.23.1399.877@41.23.1399.877" timestamp="1571891898883" />
+    <state x="317" y="224" width="833" height="474" key="find.popup" timestamp="1571876748397">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="317" y="224" width="833" height="474" key="find.popup/41.23.1399.877@41.23.1399.877" timestamp="1571876748397" />
+  </component>
+</project>
